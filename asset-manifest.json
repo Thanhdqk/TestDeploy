@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TestDeploy/static/css/main.947e0dbb.css",
+    "main.js": "/TestDeploy/static/js/main.fa0f5f78.js",
+    "static/js/453.d855a71b.chunk.js": "/TestDeploy/static/js/453.d855a71b.chunk.js",
+    "static/media/fa-solid-900.ttf": "/TestDeploy/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/TestDeploy/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/TestDeploy/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/TestDeploy/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/TestDeploy/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/TestDeploy/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/TestDeploy/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/TestDeploy/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/TestDeploy/index.html",
+    "main.947e0dbb.css.map": "/TestDeploy/static/css/main.947e0dbb.css.map",
+    "main.fa0f5f78.js.map": "/TestDeploy/static/js/main.fa0f5f78.js.map",
+    "453.d855a71b.chunk.js.map": "/TestDeploy/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.947e0dbb.css",
+    "static/js/main.fa0f5f78.js"
+  ]
+}
